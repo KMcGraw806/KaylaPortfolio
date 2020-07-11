@@ -136,6 +136,7 @@
     <Content Include="img\client-three.png" />
     <Content Include="img\client-two.png" />
     <Content Include="img\favicon-16x16.png" />
+    <Content Include="img\favicon-32x32.png" />
     <Content Include="img\favicon.ico" />
     <Content Include="img\features1.png" />
     <Content Include="img\gray-laptop.jpg" />
