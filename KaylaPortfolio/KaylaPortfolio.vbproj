@@ -129,6 +129,7 @@
     <Content Include="img\banner.jpg" />
     <Content Include="img\blog.jpg" />
     <Content Include="img\blog2.jpg" />
+    <Content Include="img\boat-on-water.jpg" />
     <Content Include="img\cbp-sprite.png" />
     <Content Include="img\client-five.png" />
     <Content Include="img\client-four.png" />
@@ -141,6 +142,7 @@
     <Content Include="img\features1.png" />
     <Content Include="img\Fizz.png" />
     <Content Include="img\gray-laptop.jpg" />
+    <Content Include="img\lawnmower.jpg" />
     <Content Include="img\logo.png" />
     <Content Include="img\map.jpg" />
     <Content Include="img\mejs-controls.png" />
@@ -148,6 +150,7 @@
     <Content Include="img\parallax.jpg" />
     <Content Include="img\personal.jpg" />
     <Content Include="img\phone.png" />
+    <Content Include="img\Portfolio-Pic.png" />
     <Content Include="img\portfolio.jpg" />
     <Content Include="img\portfolio10.jpg" />
     <Content Include="img\portfolio2.jpg" />
@@ -158,8 +161,10 @@
     <Content Include="img\portfolio7.jpg" />
     <Content Include="img\portfolio8.jpg" />
     <Content Include="img\portfolio9.jpg" />
+    <Content Include="img\SUM.png" />
     <Content Include="img\Sunset-Hills.png" />
     <Content Include="img\taco-cat.png" />
+    <Content Include="img\Tacocat.png" />
     <Content Include="img\TempPic.jpg" />
     <Content Include="img\testimonial1.png" />
     <Content Include="img\testimonial2.png" />

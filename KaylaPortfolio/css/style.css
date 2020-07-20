@@ -116,8 +116,9 @@ h2 {
 p {
     margin: 0;
     padding: 0;
-    font-size: 13px;
-    color: #535353;
+    font-size: 17px;
+    font-weight:400;
+    color: #202020;
 }
 
 .line-height-heading {
@@ -654,7 +655,7 @@ a.image {
 }
 
 .color-grey {
-    color: #535353;
+    color: #202020;
 }
 
 .color-light-grey {
@@ -939,11 +940,11 @@ button {
 
 .btn-hvr-transparent:hover, .btn-hvr-transparent:focus {
     background-color: transparent;
-    border-color: #535353;
+    border-color: #202020;
 }
 
 .btn-hvr-border .btn-hvr-effect {
-    border-color: #535353;
+    border-color: #202020;
 }
 
 .btn-hvr:hover, .btn-hvr:focus {
@@ -1019,7 +1020,7 @@ button {
     }
 
         #single-slider .owl-dots .owl-dot::after {
-            background-color: #535353;
+            background-color: #202020;
         }
 
 /* ===================================
@@ -3331,7 +3332,7 @@ header .fixed-menu.navbar-top-default .header-social a, header .transparent-bg.f
 }
 
 .price-description p {
-    color: #535353;
+    color: #202020;
     text-transform: capitalize;
     margin-bottom: 15px;
 }
@@ -3709,6 +3710,7 @@ header .fixed-menu.navbar-top-default .header-social a, header .transparent-bg.f
 
     .news_item .news_desc {
         padding: 40px 30px;
+        height: 400px;
     }
 
 .meta-tags li, .meta-tags li a {
@@ -4114,12 +4116,12 @@ ul.rounded li {
 
     .news-tags li a {
         display: block;
-        color: #535353;
+        color: #202020;
         font-size: 14px;
     }
 
         .news-tags li a:hover {
-            color: #535353;
+            color: #202020;
         }
 
         .news-tags li a i {
@@ -4542,7 +4544,7 @@ ul.rounded li {
 .contact-form-textfield textarea {
     font-size: 14px;
     border: 1px solid #dcdbdb;
-    color: #535353 !important;
+    color: #202020 !important;
     border-radius: 30px;
     -webkit-transition: 300ms ease-in all;
     -o-transition: 300ms ease-in all;
@@ -4664,7 +4666,7 @@ footer.bg-black2 {
 
 .copyrights, .copyrights a {
     font-size: 14px;
-    color: #535353;
+    color: #202020;
 }
 
     .copyrights a:hover, .copyrights a:focus {
@@ -4997,7 +4999,7 @@ form.findus .form-control,
 form.findus textarea {
     position: relative;
     font-size: 16px;
-    color: #535353;
+    color: #202020;
     border: 1px solid #d1d1d1;
     border-radius: 36px;
     margin-bottom: 0;
@@ -5630,7 +5632,7 @@ ul.count_down.white li p:nth-child(2) {
     .form-check label, .checkbox label {
         font-size: 13px;
         font-weight: 400;
-        color: #535353;
+        color: #202020;
         display: inline-block;
         position: relative;
         padding-left: 10px;
@@ -5706,8 +5708,8 @@ ul.count_down.white li p:nth-child(2) {
 
 /* personal portfolio version */
 .myphoto {
-    height: 200px;
-    width: 200px;
+    height: 350px;
+    width: 350px;
     position: relative;
     display: inline-block;
     border-radius: 50%;
