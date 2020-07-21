@@ -5718,8 +5718,8 @@ ul.count_down.white li p:nth-child(2) {
 
     .myphoto:before {
         content: " ";
-        border-radius: 50%;
-        border: 5px solid #ffffff;
+/*        border-radius: 50%;
+        border: 5px solid #ffffff;*/
         position: absolute;
         top: 0;
         right: 0;

@@ -122,6 +122,7 @@
     <Content Include="fonts\LineIcons.svg" />
     <Content Include="fonts\revicons.svg" />
     <Content Include="fonts\slick.svg" />
+    <Content Include="img\750.png" />
     <Content Include="img\about-img.jpg" />
     <Content Include="img\android-chrome-192x192.png" />
     <Content Include="img\android-chrome-512x512.png" />
@@ -142,6 +143,7 @@
     <Content Include="img\features1.png" />
     <Content Include="img\Fizz.png" />
     <Content Include="img\gray-laptop.jpg" />
+    <Content Include="img\Hi! I%27m Kayla McGraw.png" />
     <Content Include="img\lawnmower.jpg" />
     <Content Include="img\logo.png" />
     <Content Include="img\map.jpg" />
@@ -150,6 +152,7 @@
     <Content Include="img\parallax.jpg" />
     <Content Include="img\personal.jpg" />
     <Content Include="img\phone.png" />
+    <Content Include="img\port-pic.png" />
     <Content Include="img\Portfolio-Pic.png" />
     <Content Include="img\portfolio.jpg" />
     <Content Include="img\portfolio10.jpg" />
