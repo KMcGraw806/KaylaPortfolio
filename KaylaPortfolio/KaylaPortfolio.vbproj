@@ -164,8 +164,10 @@
     <Content Include="img\portfolio7.jpg" />
     <Content Include="img\portfolio8.jpg" />
     <Content Include="img\portfolio9.jpg" />
+    <Content Include="img\portfoliopic.png" />
     <Content Include="img\SUM.png" />
     <Content Include="img\Sunset-Hills.png" />
+    <Content Include="img\SunsetHills.png" />
     <Content Include="img\taco-cat.png" />
     <Content Include="img\Tacocat.png" />
     <Content Include="img\TempPic.jpg" />
