@@ -129,8 +129,10 @@
     <Content Include="img\apple-touch-icon.png" />
     <Content Include="img\banner.jpg" />
     <Content Include="img\blog.jpg" />
+    <Content Include="img\blog.png" />
     <Content Include="img\blog2.jpg" />
     <Content Include="img\boat-on-water.jpg" />
+    <Content Include="img\bugtracker.png" />
     <Content Include="img\cbp-sprite.png" />
     <Content Include="img\client-five.png" />
     <Content Include="img\client-four.png" />
