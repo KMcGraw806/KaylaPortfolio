@@ -143,9 +143,13 @@
     <Content Include="img\favicon-32x32.png" />
     <Content Include="img\favicon.ico" />
     <Content Include="img\features1.png" />
+    <Content Include="img\Financial.png" />
+    <Content Include="img\FinancialAPI.png" />
     <Content Include="img\Fizz.png" />
     <Content Include="img\gray-laptop.jpg" />
     <Content Include="img\Hi! I%27m Kayla McGraw.png" />
+    <Content Include="img\knowledge.png" />
+    <Content Include="img\languages.png" />
     <Content Include="img\lawnmower.jpg" />
     <Content Include="img\logo.png" />
     <Content Include="img\map.jpg" />
